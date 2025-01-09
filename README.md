@@ -4,7 +4,7 @@ This project is a Python script that uses Selenium to check the balance of multi
 
 ## Prerequisites
 
-- Python 3.x
+- Python 3.12
 - Google Chrome
 - ChromeDriver
 - Selenium
@@ -13,7 +13,7 @@ This project is a Python script that uses Selenium to check the balance of multi
 
 1. Clone the repository:
     ```sh
-    git clone https://github.com/J0Ysutradhar/bar.git
+    git clone https://github.com/J0Ysutradhar/Near-Balance-checker.git
     cd bar
     ```
 
