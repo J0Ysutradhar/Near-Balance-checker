@@ -43,3 +43,9 @@ The script performs the following steps:
 5. Prints the results to the console.
 
 ### Example Output
+Total Hot wallet counted 60/60 Total Near available: 1234.56 Near The current price of near is: 10.0$ Available USDT 12345.6$ Available BDT 1604928.0 Tk
+
+
+## License
+
+This project is licensed under the MIT License. See the LICENSE file for details.
