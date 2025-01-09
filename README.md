@@ -13,8 +13,8 @@ This project is a Python script that uses Selenium to check the balance of multi
 
 1. Clone the repository:
     ```sh
-    git clone https://github.com/yourusername/near-wallet-balance-checker.git
-    cd near-wallet-balance-checker
+    git clone https://github.com/J0Ysutradhar/bar.git
+    cd bar
     ```
 
 2. Install the required Python packages:
