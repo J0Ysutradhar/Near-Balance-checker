@@ -14,7 +14,7 @@ This project is a Python script that uses Selenium to check the balance of multi
 1. Clone the repository:
     ```sh
     git clone https://github.com/J0Ysutradhar/Near-Balance-checker.git
-    cd bar
+    cd baNear-Balance-checker
     ```
 
 2. Install the required Python packages:
