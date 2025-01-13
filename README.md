@@ -1,5 +1,5 @@
 # Near Wallet Balance Checker
-
+1
 This project is a Python script that uses Selenium to check the balance of multiple Near wallets and calculate the total balance in Near, USDT, and BDT.
 
 ## Prerequisites
